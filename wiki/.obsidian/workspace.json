@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "85142599a98937f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "625fca36ec130602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a23d79f6e6e9383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agentic-loop.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "agentic-loop"
+            }
+          },
+          {
+            "id": "e9137470e72928f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/karpathy's second brain how to build it.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "karpathy's second brain how to build it"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67897e155ea216cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9287f206225eaf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dd56c597206c597",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1e662a79aef73c0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b830aa699427659f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2294b4de11ef65c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "09002def1e79f30b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9adcfa6113177dbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/karpathy's second brain how to build it.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for karpathy's second brain how to build it"
+            }
+          },
+          {
+            "id": "1c2df1b1807d721d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clippings/karpathy's second brain how to build it.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from karpathy's second brain how to build it"
+            }
+          },
+          {
+            "id": "8ef0654f0ff43126",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "89b96ad90aff00a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "00907bd7846e2e98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/karpathy's second brain how to build it.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of karpathy's second brain how to build it"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1a23d79f6e6e9383",
+  "lastOpenFiles": [
+    "log.md.tmp.25488.1776391537517",
+    "tool-choice-modes.md.tmp.25488.1776391503519",
+    "multi-instance-anti-patterns.md",
+    "confidence-calibrated-routing.md",
+    "multipass-review-architecture.md",
+    "self-review-bias.md",
+    "batch-anti-patterns.md",
+    "two-phase-batch-strategy.md",
+    "two-phase-batch-strategy.md.tmp.25488.1776391248075",
+    "partial-failure-resubmission.md",
+    "custom-id-tracking.md",
+    "batch-vs-synchronous-api.md",
+    "message-batches-api.md",
+    "series-overview.md.tmp.25488.1776390788524",
+    "local-error-recovery.md.tmp.25488.1776390784724",
+    "feedback-loop-improvement.md.tmp.25488.1776390773735",
+    "syntax-vs-semantic-errors.md.tmp.25488.1776390765509",
+    "domain-1-overview.md",
+    "domain-4-overview.md.tmp.25488.1776390759026",
+    "domain-4-overview.md.tmp.25488.1776390753127",
+    "domain-4-overview.md.tmp.25488.1776390743099",
+    "index.md",
+    "domain-4-overview.md.tmp.25488.1776390738252",
+    "validation-retry-anti-patterns.md",
+    "Clippings/karpathy's second brain how to build it.md",
+    "few-shot-anti-patterns.md",
+    "example-count-guidelines.md",
+    "gray-area-examples.md",
+    "reasoning-in-examples.md",
+    "few-shot-prompting.md",
+    "prompt-design-anti-patterns.md",
+    "severity-levels-examples.md",
+    "categorical-definitions.md",
+    "false-positive-problem.md",
+    "prompt-design-explicit-criteria.md",
+    "domain-4-overview.md"
+  ]
+}
